@@ -1,13 +1,3 @@
 <div align="center">
-
-```text
-   _____   _____ ___ ___       ___ ___ ___ 
-  / __\ \ / / _ ) __| _ \     / __| __/ __|
- | (__ \ V /| _ \ _||   /     \__ \ _| (__ 
-  \___| |_| |___/___|_|_\     |___/___\___|
-                                           
-```
-
-**My Awesome Repository**
-
+  <img src="./assets/banner.png" width="700" alt="Cyber Tools banner">
 </div>
