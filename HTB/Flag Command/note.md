@@ -65,7 +65,7 @@ And boom! **The flag appeared!**
 <details>
 <summary>Evidence — ./found.png</summary>
 
-The successful output containing the flag is saved in `found.txt`.
+The successful output containing the flag is saved in `found.png`.
 
 </details>
 
