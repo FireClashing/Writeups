@@ -48,7 +48,7 @@ I started inspecting the requests and responses exchanged between the browser an
 While examining the network traffic, I noticed something interesting in the response to an `OPTIONS` request: it contained a secret key.
 
 <details>
-<summary>Evidence — response.png</summary>
+<summary>Evidence — ./response.png</summary>
 
 The response containing the suspicious secret key is saved in `response.png`.
 
@@ -63,7 +63,7 @@ After experimenting a little, I decided to type `start` first and then paste the
 And boom! **The flag appeared!**
 
 <details>
-<summary>Evidence — found.txt</summary>
+<summary>Evidence — ./found.png</summary>
 
 The successful output containing the flag is saved in `found.txt`.
 
